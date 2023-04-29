@@ -7,8 +7,7 @@
 
 import Foundation
 
-struct user{
+struct user {
     let username : String
     let password : String
-    
 }
